@@ -16,4 +16,4 @@ function veriCekVeYaz() {
         });
 }
 
-setInterval(veriCekVeYaz, 1000); 
+setInterval(veriCekVeYaz, 1000); //bir saniyede bir verileri güncelle
