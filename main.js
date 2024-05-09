@@ -12,4 +12,4 @@ function veriCekVeYaz(){
     });
 }
 
-setInterval(veriCekVeYaz, 15000);
+setInterval(veriCekVeYaz, 15000); //15 saniyede bir verileri güncelle ve yazdır 
